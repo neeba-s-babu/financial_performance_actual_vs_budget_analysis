@@ -5,6 +5,7 @@ This project presents an interactive financial performance dashboard built in Ex
 
 The dashboard helps identify performance gaps, analyze cost drivers, and monitor profitability through variance analysis.
 
+
 Key Features
 
 Data cleaning and transformation using Power Query
@@ -21,6 +22,8 @@ Interactive filtering using slicers (Year, Month, Region, Department)
 
 Visualizations for trend analysis and cost breakdown
 
+
+
 Dashboard Insights
 
 Net profit is 1.06% below budget
@@ -28,6 +31,8 @@ Net profit is 1.06% below budget
 The variance is primarily driven by higher operating expenses
 
 Regional performance differences highlight opportunities for cost optimization
+
+
 
 Dashboard Visualizations
 
@@ -42,6 +47,8 @@ Variance by Category
 Expense Breakdown
 
 Region Performance
+
+
 
 Tools & Technologies
 
