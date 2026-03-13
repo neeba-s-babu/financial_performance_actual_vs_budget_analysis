@@ -1,9 +1,10 @@
-Financial Performance Dashboard – Actual vs Budget Analysis (CHF) (Excel)
+🔎 Financial Performance Dashboard – Actual vs Budget Analysis (CHF) (Excel)
 Overview
 
 This project presents an interactive financial performance dashboard built in Excel to analyze Actual vs Budget performance across regions, departments, and financial categories.
 
 The dashboard helps identify performance gaps, analyze cost drivers, and monitor profitability through variance analysis.
+
 
 
 Key Features
@@ -24,7 +25,8 @@ Visualizations for trend analysis and cost breakdown
 
 
 
-Dashboard Insights
+
+📈 Dashboard Insights
 
 Net profit is 1.06% below budget
 
