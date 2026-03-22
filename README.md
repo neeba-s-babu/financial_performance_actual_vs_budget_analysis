@@ -20,13 +20,18 @@ The dashboard provides a clear view of financial performance by highlighting **p
 
 ---
 
-## Dashboard Insights
+## Project Structure
 
-Key findings from the analysis:
-
-* Net profit is **1.06% below budget**
-* The variance is mainly driven by **higher operating expenses**
-* Regional performance differences highlight **opportunities for cost optimization**
+```
+financial-performance-dashboard-excel
+│
+├── Dashboard.xlsx
+├── data
+│   └── raw_financial_data.xlsx
+├── images
+│   └── dashboard_preview.png
+└── README.md
+```
 
 ---
 
